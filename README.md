@@ -1,2 +1,3 @@
-###Haruspex von Neumann
-hello world
+Haruspex von Neumann
+
+heterodox analysis for heterodox realities
